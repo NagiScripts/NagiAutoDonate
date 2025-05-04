@@ -6,4 +6,5 @@
 --loadstring(game:HttpGet("https://pastefy.app/AUIlnc77/raw"))()
 --loadstring(game:HttpGet("https://pastefy.app/hkmsETJH/raw"))()
 --loadstring(game:HttpGet("https://pastefy.app/QzZF23Lb/raw"))()
-loadstring(game:HttpGet("https://pastefy.app/tNiybkYk/raw"))()
+--loadstring(game:HttpGet("https://pastefy.app/tNiybkYk/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/Dg7ye9sN/raw"))()
